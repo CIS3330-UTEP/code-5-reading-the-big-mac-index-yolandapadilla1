@@ -1,5 +1,5 @@
 import csv
-import pandas
+import pandas as pd
 big_mac_file = './big-mac-full-index.csv'
 
 def get_big_mac_price_by_year(year,country_code):
