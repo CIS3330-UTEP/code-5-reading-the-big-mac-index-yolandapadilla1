@@ -29,3 +29,4 @@ Your program should include the following functions:
 * For the functions `get_the_cheapest_big_mac_price_by_year` and `get_the_most_expensive_big_mac_price_by_year`, you must return a message with exactly the same format.
 * You need to program your interface under the if statement: `if __name__ == "__main__":`.
 * It is recommended to use Pandas, but you are free to use the CSV module.
+* Use the built-in function round() to round decimal numbers. For example: `round(0.5556,2)` should return **0.56**
