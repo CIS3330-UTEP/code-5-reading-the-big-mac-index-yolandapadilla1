@@ -28,3 +28,4 @@ Your program should include the following functions:
 * For the functions `get_big_mac_price_by_year`and `get_big_mac_price_by_country` you must return a float rounded to **2** decimal spaces.
 * For the functions `get_the_cheapest_big_mac_price_by_year` and `get_the_most_expensive_big_mac_price_by_year` you must return a message with exactly the same format
 * You need to program your interface under the if statement: `if __name__ == "__main__":`
+* It is recommended to use Pandas, but you are free to use the CSV module.
