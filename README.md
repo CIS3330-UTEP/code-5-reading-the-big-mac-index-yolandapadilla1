@@ -30,3 +30,7 @@ Your program should include the following functions:
 * You need to program your interface under the if statement: `if __name__ == "__main__":`.
 * It is recommended to use Pandas, but you are free to use the CSV module.
 * Use the built-in function round() to round decimal numbers. For example: `round(0.5556,2)` should return **0.56**
+
+## Copyright disclosure
+
+* The file `big-mac-full-index` was obtained from [https://github.com/TheEconomist/big-mac-data] (https://github.com/TheEconomist/big-mac-data). The file is protected under the MIT License [https://github.com/TheEconomist/big-mac-data/blob/master/LICENCE](https://github.com/TheEconomist/big-mac-data/blob/master/LICENCE).
