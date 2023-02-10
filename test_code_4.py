@@ -1,4 +1,5 @@
 import os,sys
+import random
 from code_4 import get_big_mac_price_by_year
 from code_4 import get_big_mac_price_by_country
 from code_4 import get_the_cheapest_big_mac_price_by_year
@@ -13,7 +14,7 @@ def check_if_file_exists():
 
 def test_big_mac_price_by_year():
     check_if_file_exists
-
+    
 def test_big_mac_price_by_country():
     check_if_file_exists
 
